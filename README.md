@@ -1,123 +1,89 @@
- **Business Analyst Internship at KultureHire**
-
-### **Internship Overview**
-This 3-month Business Analyst internship at KultureHire focused on analyzing the **Career Aspirations of Gen Z**. The goal was to uncover key insights into the expectations, motivations, and challenges Gen Z faces in the workplace, while providing employers with actionable strategies for attracting, retaining, and managing this demographic. During this period, I worked on various stages of the project, including survey design, data gathering, analysis using tools like Excel, SQL, and Power BI, and preparing visual insights.
-
-### **Internship Duration**
-- **Start Date**: June 2024
-- **End Date**: September 2024  
-- **Duration**: 3 months
-
----
-
-### **Project Title**:  
-**"Career Aspirations of Gen Z"**
-
----
-
-### **Objectives**:
-1. **Analyze Career Aspirations**:
-   - To identify and understand the career motivations, job expectations, and work-life balance preferences of Gen Z employees.
-  
-2. **Provide Employer Insights**:
-   - To offer data-driven insights that employers can use to improve recruitment, retention, and engagement strategies for Gen Z talent.
-
-3. **Identify Key Challenges**:
-   - To recognize the main challenges employers face in managing Gen Z employees, such as technology adaptation, retention, and aligning work-life balance expectations.
-
-4. **Develop Strategic Recommendations**:
-   - To create a practical set of recommendations for organizations to implement, improving Gen Z recruitment and retention strategies.
-
----
-
-### **Scope of Work**:
-1. **Survey Design**:
-   - I created a detailed survey using **Google Forms**, targeting Gen Z individuals across various regions and demographics to gather information about their career preferences, motivations, and challenges.
-   - The survey included over **25 different questions**, focusing on key areas like work-life balance, career progression, workplace flexibility, and technology expectations.
-
-2. **Data Collection & Cleaning**:
-   - After launching the survey via social media channels, I gathered over **200 responses**.
-   - I used **Excel** and **SQL** to clean the dataset, ensuring consistency and removing duplicates to prepare the data for analysis.
-
-3. **Data Analysis & Visualization**:
-   - Using **Power BI**, I visualized key insights from the data, creating dashboards that highlighted Gen Z's career aspirations, employer challenges, and preferences.
-   - I focused on creating multiple dashboards to visualize these insights, similar to my previous experience with multi-page Power BI reports in sectors like banking, sales, and hospitality.
-
-4. **Stakeholder Insights**:
-   - I conducted **focus group discussions** to supplement the survey findings, gathering qualitative insights on what drives Gen Z's career choices.
-   - Insights from this data were shared in reports and visualizations to offer stakeholders a comprehensive view of the generational shift happening in workplaces.
-
----
-
-### **Key Findings**:
-1. **Top Career Aspirations of Gen Z**:
-   - **Work-Life Balance**: A majority of Gen Z (80%) prioritize flexible work hours and remote working opportunities.
-   - **Job Security**: 65% of respondents seek stability in their roles, contrary to the stereotype of frequent job-hopping.
-   - **Career Development**: Around 70% value continuous learning opportunities, mentorship, and clear career progression paths.
-
-2. **Challenges for Employers**:
-   - **Retention Issues**: Gen Z employees expect rapid career advancement, and many organizations struggle with retaining this generation.
-   - **Technology Expectations**: Gen Z is highly tech-savvy, and employers often struggle to meet their expectations for advanced tools and digital solutions.
-
-3. **Workplace Preferences**:
-   - **Flexibility vs. Salary**: 75% of Gen Z respondents favor workplace flexibility (remote work, flexible schedules) over a higher salary.
-   - **Diversity and Inclusion**: 75% value companies that actively promote diversity and inclusion.
-
----
-
-### **Key "Wow" Insight**:
-- **Flexibility Over Salary**: One of the most surprising insights was that **75% of Gen Z participants prioritize workplace flexibility over a higher salary**. This was a major shift from previous generations, where compensation was often the top motivator. The preference for remote work and flexible hours has become a defining feature of this generation's workplace expectations.
-
----
-
-### **Recommendations**:
-1. **Flexible Work Policies**:
-   - Employers should implement remote work options and flexible work hours to better align with Gen Z's preference for work-life balance.
-
-2. **Continuous Career Development**:
-   - Organizations should invest in mentorship programs, skill development, and clear career progression pathways to retain Gen Z talent.
-
-3. **Diversity and Inclusion**:
-   - Employers should actively promote and invest in diversity and inclusion initiatives to create a work culture that resonates with Gen Z values.
-
-4. **Technology Investments**:
-   - Organizations must ensure that the technology tools and systems they provide meet the high expectations of tech-savvy Gen Z workers.
-
----
-
-### **Tools and Technologies Used**:
-- **Survey Design**: Google Forms
-- **Data Collection & Cleaning**: Excel, SQL
-- **Data Transformation**: Power Query
-- **Data Visualization**: Power BI (multiple dashboards created)
-- **Presentation**: Canva, PowerPoint (for final presentation slides)
-
----
-
-### **Challenges Faced**:
-1. **Survey Response Rate**:
-   - In the early stages of the project, I struggled to gather enough survey responses. I overcame this challenge by promoting the survey across social media platforms and reaching out directly to Gen Z individuals to improve the response rate.
-
-2. **Data Cleaning**:
-   - Ensuring that the survey data was consistent and error-free was a time-consuming task, requiring careful use of SQL and Excel to clean and transform the dataset.
-
-3. **Visualizing Insights**:
-   - Creating clear and impactful visualizations in Power BI that could effectively communicate the findings to employers was a challenge. My previous experience in creating **multi-page Power BI reports** for banking, sales, healthcare, and hospitality sectors helped me deliver comprehensive visual reports.
-
----
-
-### **Key Takeaways**:
-1. **Understanding Gen Z Aspirations**:
-   - I gained a deep understanding of Gen Z's career aspirations, which emphasized flexibility, continuous learning, and work-life balance. These insights can help employers shape policies to attract and retain Gen Z talent.
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
-2. **Advanced Analytical Skills**:
-   - Through this internship, I further honed my skills in **Excel**, **Power BI**, and **SQL**, which were critical for data analysis, transformation, and visualization.
 
-3. **Effective Communication**:
-   - I developed strong communication skills by promoting the survey on social media, collaborating with the team, and presenting my findings in the final report.
+   
+</head>
+<body>
+    <div class="container">
+        <div class="resume-section">
+            <h1>Business Analyst Internship at KultureHire</h1>
+            <h2>Internship Overview</h2>
+            <p>This 3-month Business Analyst internship at KultureHire focused on analyzing the <strong>Career Aspirations of Gen Z</strong>. The goal was to uncover key insights into the expectations, motivations, and challenges Gen Z faces in the workplace, while providing employers with actionable strategies for attracting, retaining, and managing this demographic. During this period, I worked on various stages of the project, including survey design, data gathering, analysis using tools like Excel, SQL, and Power BI, and preparing visual insights.</p>
 
----
+  <h2>Internship Duration</h2>
+            <ul>
+                <li><strong>Start Date:</strong> June 2024</li>
+                <li><strong>End Date:</strong> September 2024</li>
+                <li><strong>Duration:</strong> 3 months</li>
+            </ul>
+   <h2>Project Title</h2>
+            <p><strong>"Career Aspirations of Gen Z"</strong></p>
 
-### **Conclusion**:
-The Business Analyst Internship at KultureHire provided valuable hands-on experience in understanding the career aspirations of Gen Z and generating actionable insights for employers. By utilizing tools such as Excel, Power BI, and SQL, I was able to analyze and visualize data effectively, offering clear and meaningful recommendations. This experience has not only enhanced my technical and analytical skills but also my ability to communicate data-driven insights to stakeholders, which will be invaluable in my future career as a Data Analyst.
+  <h2>Objectives</h2>
+            <ul>
+                <li><strong>Analyze Career Aspirations:</strong> Identify career motivations, job expectations, and work-life balance preferences of Gen Z employees.</li>
+                <li><strong>Provide Employer Insights:</strong> Offer data-driven insights for improving recruitment, retention, and engagement strategies.</li>
+                <li><strong>Identify Key Challenges:</strong> Recognize challenges like technology adaptation, retention, and aligning work-life balance expectations.</li>
+                <li><strong>Develop Strategic Recommendations:</strong> Propose actionable strategies for better Gen Z talent management.</li>
+            </ul>
+
+  <h2>Scope of Work</h2>
+            <ul>
+                <li><strong>Survey Design:</strong> Created a detailed survey using Google Forms with over 25 questions targeting Gen Z individuals.</li>
+                <li><strong>Data Collection & Cleaning:</strong> Gathered over 200 responses and cleaned data using Excel and SQL.</li>
+                <li><strong>Data Analysis & Visualization:</strong> Created dashboards in Power BI to visualize insights.</li>
+                <li><strong>Stakeholder Insights:</strong> Conducted focus group discussions to complement survey findings.</li>
+            </ul>
+
+  <h2>Key Findings</h2>
+            <ul>
+                <li><strong>Top Career Aspirations:</strong> Gen Z prioritizes work-life balance, job security, and career development.</li>
+                <li><strong>Challenges for Employers:</strong> Retention issues and meeting technology expectations.</li>
+                <li><strong>Workplace Preferences:</strong> Flexibility and diversity are more valued than high salaries.</li>
+            </ul>
+
+  <h2>Key "Wow" Insight</h2>
+            <p><strong>Flexibility Over Salary:</strong> 75% of Gen Z participants prioritize workplace flexibility over a higher salary.</p>
+
+  <h2>Recommendations</h2>
+            <ul>
+                <li>Implement remote work options and flexible work hours.</li>
+                <li>Invest in mentorship and clear career progression pathways.</li>
+                <li>Promote diversity and inclusion initiatives.</li>
+                <li>Upgrade technology tools to meet Gen Z expectations.</li>
+            </ul>
+   <h2>Tools and Technologies Used</h2>
+            <ul>
+                <li><strong>Survey Design:</strong> Google Forms</li>
+                <li><strong>Data Collection & Cleaning:</strong> Excel, SQL</li>
+                <li><strong>Data Transformation:</strong> Power Query</li>
+                <li><strong>Data Visualization:</strong> Power BI</li>
+                <li><strong>Presentation:</strong> Canva, PowerPoint</li>
+            </ul>
+
+ <h2>Challenges Faced</h2>
+            <ul>
+                <li><strong>Survey Response Rate:</strong> Improved by promoting the survey on social media.</li>
+                <li><strong>Data Cleaning:</strong> Time-consuming but managed effectively using SQL and Excel.</li>
+                <li><strong>Visualizing Insights:</strong> Overcame challenges in creating impactful dashboards in Power BI.</li>
+            </ul>
+    <h2>Key Takeaways</h2>
+            <ul>
+                <li>Gained a deep understanding of Gen Z's career aspirations.</li>
+                <li>Enhanced analytical skills in Excel, SQL, and Power BI.</li>
+                <li>Improved communication skills by presenting findings to stakeholders.</li>
+            </ul>
+
+ <h2>Internship Certificate</h2>
+            <div class="certificate">
+                <img src="https://drive.google.com/uc?id=1ZTFrFeiPpTDIVWbqBnmyXQgSyYwXBLY-" alt="Internship Certificate">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
 
